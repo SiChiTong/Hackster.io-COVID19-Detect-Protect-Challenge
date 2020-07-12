@@ -5,7 +5,7 @@
 This repository holds source code of the COVID-19 Detect & Protect Challenge contest
 held by [hackster.io](https://www.hackster.io/contests/UNDPCOVID19).
 
-This program requires EA LPC11u35 or compatible board with some sensors.
+This program requires EA LPC11u35 or compatible board with some modules.
 You can find complete list of hardware with schematic diagram at my project submission page, 
 but submission page may not be available until winners are announced.
 
@@ -55,4 +55,4 @@ This program has been developed under following environment:
 * Ubuntu ([Pop!_OS](https://system76.com/pop)) 20.04 LTS x86_64
 * [GNU Arm Embedded Toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
 * [PlatformIO Core](https://platformio.org/)
-* [CLion](https://www.jetbrains.com/clion/)
+* [Jetbrains CLion IDE](https://www.jetbrains.com/clion/)
